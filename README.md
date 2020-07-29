@@ -6,3 +6,6 @@ These include
 Software Defined Radios
 
 Arduinos for Hacking
+
+Let’s have a Board Level talk (Hardware Hacking Boards) - from HOPE2020
+
